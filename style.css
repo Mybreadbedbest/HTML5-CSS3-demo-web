@@ -1,0 +1,144 @@
+.site-header {
+    background-color: white;
+}
+
+.svg {
+    width:"24";
+    height:"24";
+}
+
+.a {
+    color: white;
+    text-decoration: none;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.b{
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.background-img {
+  background-image: url("https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?auto:compress&cs:tinysrgb&w:1260&h:750&dpr:1");
+  background-repeat: no-repeat;
+  background-size: 2000px 1000px;
+}
+
+.oneplane{
+    content: url("https://freepngimg.com/thumb/plane/2-2-plane-png-clipart-thumb.png");
+    margin-left: 1500px;
+    margin-top: -100px;
+    width: 20%;
+    height: 20%;
+}
+
+.plane {
+    content: url("https://images.pexels.com/photos/15305651/pexels-photo-15305651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    border-radius: 10px;
+    margin-top: -70px;
+    margin-left: 600px;
+    width: 300px;
+    height: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.aircrew{
+    content: url("https://images.pexels.com/photos/5778308/pexels-photo-5778308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    border-radius: 10px;
+    margin-top: -316px;
+    margin-left: 1000px;
+    width: 300px;
+    height: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.funland{
+    content: url("https://images.pexels.com/photos/3411134/pexels-photo-3411134.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    margin-top: 370px;
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    filter: drop-shadow(0 0 0.75rem black);
+}
+
+.textfunland{
+    margin-top: -450px;
+    margin-left: 1200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(221,89,0);
+    text-shadow: 2px 2px 2px rgb(109,51,33);
+}
+
+.textfunland2{
+    margin-top: 50px;
+    margin-left: 1100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.funlandplan{
+    content: url("https://images.pexels.com/photos/3411134/pexels-photo-3411134.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    margin-top: auto;
+    width: 1000px;
+    height: 500px;
+    filter: drop-shadow(0 0 0.75rem black);
+}
+
+.theatre{
+    content: url("https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    margin-top: 200px;
+    width: 1000px;
+    height: 500px;
+    margin-left: 900px;
+    display: flex;
+    justify-content: flex-end;
+    filter: drop-shadow(0 0 0.75rem black);
+}
+
+.textfunlandplan{
+    margin-top: -450px;
+    margin-left: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(221,89,0);
+    text-shadow: 2px 2px 2px rgb(109,51,33);
+}
+
+.textfunlandplan2{
+    margin-top: 50px;
+    margin-left: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.maptext{
+    margin-top: 100px;
+    margin-left: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(221,89,0);
+    text-shadow: 2px 2px 2px rgb(109,51,33);
+}
+
+.map{
+    content: url("./../1111.png");
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    margin-top: 50px;
+    justify-content: flex-end;
+    filter: drop-shadow(0 0 0.75rem black);
+}
+
+.layer1 {
+    background-image: url('https://images.pexels.com/photos/1051574/pexels-photo-1051574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    aspect-ratio: 960/300;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
