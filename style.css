@@ -20,6 +20,7 @@
     margin-top: 10px;
     margin-left: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    filter: drop-shadow(0 0 0.20rem black);
 }
 .background-img {
   background-image: url("https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?auto:compress&cs:tinysrgb&w:1260&h:750&dpr:1");
@@ -71,6 +72,7 @@
     font-size: 50px;
     color: rgb(221,89,0);
     text-shadow: 2px 2px 2px rgb(109,51,33);
+    filter: drop-shadow(0 0 0.20rem black);
 }
 
 .textfunland2{
@@ -106,6 +108,7 @@
     font-size: 50px;
     color: rgb(221,89,0);
     text-shadow: 2px 2px 2px rgb(109,51,33);
+    filter: drop-shadow(0 0 0.20rem black);
 }
 
 .textfunlandplan2{
